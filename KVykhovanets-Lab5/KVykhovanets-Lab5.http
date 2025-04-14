@@ -1,0 +1,6 @@
+@KVykhovanets_Lab5_HostAddress = http://localhost:5082
+
+GET {{KVykhovanets_Lab5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
