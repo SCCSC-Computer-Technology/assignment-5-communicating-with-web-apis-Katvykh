@@ -1,0 +1,28 @@
+﻿@model KVykhovanets_Lab5_MVC.Models.States
+
+@{
+    ViewData["Title"] = "Delete State";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h4>Are you sure you want to delete the state: @Model.State?</h4>
+
+<h3>@Model.State</h3>
+<p><strong>Capital:</strong> @Model.Capital</p>
+<p><strong>Population:</strong> @Model.Population</p>
+<p><strong>Flag Description:</strong> @Model.FlagDescription</p>
+<p><strong>Flower:</strong> @Model.Flower</p>
+<p><strong>Bird:</strong> @Model.Bird</p>
+<p><strong>Colors:</strong> @Model.Colors</p>
+<p><strong>Largest Cities:</strong> @Model.LargestCities</p>
+<p><strong>Median Income:</strong> @Model.MedianIncome.ToString("C")</p>
+<p><strong>Percent of Comp Related Jobs:</strong> @Model.PercCompRelatedJobs.ToString("P")</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="StateID" />
+
+    <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this state?');">Delete</button>
+    <a href="@Url.Action("Index", "State")" class="btn btn-secondary">Cancel</a>
+</form>

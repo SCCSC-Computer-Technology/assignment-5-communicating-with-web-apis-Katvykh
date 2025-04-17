@@ -1,0 +1,84 @@
+﻿@model KVykhovanets_Lab5_MVC.Models.States
+
+@{
+    ViewData["Title"] = "Edit State";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h4>Edit state details:</h4>
+
+<form asp-action="Edit" asp-route-id="@Model.StateID" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="StateID" />
+
+    <div class="form-group">
+        <label asp-for="State" class="control-label"></label>
+        <input asp-for="State" class="form-control" />
+        <span asp-validation-for="State" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Capital" class="control-label"></label>
+        <input asp-for="Capital" class="form-control" />
+        <span asp-validation-for="Capital" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Population" class="control-label"></label>
+        <input asp-for="Population" class="form-control" />
+        <span asp-validation-for="Population" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FlagDescription" class="control-label"></label>
+        <input asp-for="FlagDescription" class="form-control" />
+        <span asp-validation-for="FlagDescription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Flower" class="control-label"></label>
+        <input asp-for="Flower" class="form-control" />
+        <span asp-validation-for="Flower" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Bird" class="control-label"></label>
+        <input asp-for="Bird" class="form-control" />
+        <span asp-validation-for="Bird" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Colors" class="control-label"></label>
+        <input asp-for="Colors" class="form-control" />
+        <span asp-validation-for="Colors" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LargestCities" class="control-label"></label>
+        <input asp-for="LargestCities" class="form-control" />
+        <span asp-validation-for="LargestCities" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MedianIncome" class="control-label"></label>
+        <input asp-for="MedianIncome" class="form-control" />
+        <span asp-validation-for="MedianIncome" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PercCompRelatedJobs" class="control-label"></label>
+        <input asp-for="PercCompRelatedJobs" class="form-control" />
+        <span asp-validation-for="PercCompRelatedJobs" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
+
+<a href="@Url.Action("Index")">Back to List</a>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

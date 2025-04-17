@@ -1,0 +1,23 @@
+﻿@model KVykhovanets_Lab5_MVC.Models.States
+
+@{
+    ViewData["Title"] = "State Details";
+}
+
+<h1>@Model.State</h1>
+<p><strong>Capital:</strong> @Model.Capital</p>
+<p><strong>Population:</strong> @Model.Population</p>
+<p><strong>Flag Description:</strong> @Model.FlagDescription</p>
+<p><strong>Flower:</strong> @Model.Flower</p>
+<p><strong>Bird:</strong> @Model.Bird</p>
+<p><strong>Colors:</strong> @Model.Colors</p>
+<p><strong>Largest Cities:</strong> @Model.LargestCities</p>
+<p><strong>Median Income:</strong> @Model.MedianIncome.ToString("C")</p>
+<p><strong>Percent of Comp Related Jobs:</strong> @Model.PercCompRelatedJobs.ToString("P")</p>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.StateID" class="btn btn-primary me-2">Edit</a>
+    <a asp-action="Delete" asp-route-id="@Model.StateID" class="btn btn-primary">Delete</a>
+</div>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

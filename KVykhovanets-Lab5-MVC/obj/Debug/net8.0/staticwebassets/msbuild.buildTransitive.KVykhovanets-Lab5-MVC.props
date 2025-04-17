@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KVykhovanets-Lab5-MVC.props" />
+</Project>

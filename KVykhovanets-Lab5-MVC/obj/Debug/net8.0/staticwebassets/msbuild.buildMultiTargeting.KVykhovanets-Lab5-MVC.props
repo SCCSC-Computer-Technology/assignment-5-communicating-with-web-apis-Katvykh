@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KVykhovanets-Lab5-MVC.props" />
+</Project>

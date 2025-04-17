@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KVykhovanets_Lab5_MVC.Models.States>
+
+@{
+    ViewData["Title"] = "States List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a href="@Url.Action("Create", "State")" class="btn btn-success mb-3">Create New State</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>State</th>
+                <th>Capital</th>
+                <th>Population</th>
+                <th>Flower</th>
+                <th>Bird</th>
+                <th>Colors</th>
+                <th>Median Income</th>
+                <th>% Computer Jobs</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var state in Model)
+            {
+                <tr>
+                    <td>@state.State</td>
+                    <td>@state.Capital</td>
+                    <td>@state.Population</td>
+                    <td>@state.Flower</td>
+                    <td>@state.Bird</td>
+                    <td>@state.Colors</td>
+                    <td>@state.MedianIncome.ToString("C")</td>
+                    <td>@state.PercCompRelatedJobs.ToString("P")</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@state.StateID" class="btn btn-primary">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No state data available.</p>
+}
+

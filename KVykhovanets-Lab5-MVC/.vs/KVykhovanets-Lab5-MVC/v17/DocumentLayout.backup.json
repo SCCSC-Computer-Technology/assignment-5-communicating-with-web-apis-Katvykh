@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\state\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\state\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\state\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\state\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\state\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\state\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|c:\\users\\kathe\\source\\repos\\kvykhovanets-lab5-mvc\\models\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D88D98-1E7B-46A4-B530-7105471DB4AB}|KVykhovanets-Lab5-MVC.csproj|solutionrelative:models\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Edit.cshtml",
+              "RelativeToolTip": "Views\\State\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:33:57.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Details.cshtml",
+              "RelativeToolTip": "Views\\State\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:28:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:09:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:46:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Create.cshtml",
+              "RelativeToolTip": "Views\\State\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:25:34.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Delete.cshtml",
+              "RelativeToolTip": "Views\\State\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:34:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:36:17.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\State\\Index.cshtml",
+              "RelativeToolTip": "Views\\State\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:21:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:24:34.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Models\\States.cs",
+              "RelativeDocumentMoniker": "Models\\States.cs",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\KVykhovanets-Lab5-MVC\\Models\\States.cs",
+              "RelativeToolTip": "Models\\States.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:35:46.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
