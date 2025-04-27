@@ -1,0 +1,23 @@
+Once, I saw Katherine's Lab 5 assignment; I saw two seperate folders of just the titile Lab 5 and thet second folder as
+MVC. I started with Lab-5 assignment folder to see if it would work by itself and it works wonderfully. I was able to see
+your swagger WebAPI that included the states id of two "GET's", POST, "PUT", and "DELETE". After I closed that folder, I opened 
+MVC by itself to see if it was going to be like the Lab-5 folder and it showed an error saying, "An unhandled exception occurred 
+while processing the request". It does show that it is working because it has to run with the WebAPI and in order to get everything
+both the Lab-5 program and the MVC has to work together.
+
+After trying both Lab 5 program and the MVC [load the Lab 5 program first then MVC], the program showed her website name and
+bold title named, "States List", with a green button that allow me to create a new state and a comment below the green button that
+there's no state data available. I clicked on the green button and fill out a state that I wanted to create (I created Hawaii). 
+After filling in all the boxes and clicked on the blue button that says, "Create" it showed nothing. Then, I clicked on "Privacy"
+at the top of the bar near the other button, "Home". There was nothing inside the "Privacy" page then I clicked on "Home" page and
+there was nothing except a "Welcome". I did click on back to see if it was back at the beginning and nothing was there. I noticed two
+other buttons across from the "Home" and "Privacy" page and it was on the right-side; the buttons were "Register" and "Login". I
+click on the "Login" button and fill in my [school] email and gave it a fake password and it resulted in saying, "A database operation
+failed while processing the request." Then I ended her program.
+
+Overall of the work, I like how when I first open both programs I could see one option to create a state but need to work on showing
+the data that was inserted in because it didn't show anything after creating data to be inserted into a database. Additionally, within
+MVC, I can see how you connected your States database (if I am correctly seeing it) connected to the Models folder of the States.cs
+so there wouldn't be miscommunication when working together with a WebAPI and the MVC working together. Overall, I like the progress
+shown within this assignment because I've been having trouble of how to getting it to show how yours did and I am really proud of how 
+much work you have put into this assignment because you did an fantastic job! :)
