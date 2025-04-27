@@ -1,0 +1,34 @@
+Nice, the API Works runs but there are couple of issues when I tested it out:
+
+  Under POST /api/state - I tried executing the application/json, but retrived no relating data.
+
+  Curl:
+      curl -X 'POST' \
+      'https://localhost:7112/api/State' \
+      -H 'accept: text/plain' \
+      -H 'Content-Type: application/*+json' \
+      -d '{
+      "stateID": 0,
+      "state": "string",
+      "capital": "string",
+      "population": 0,
+      "flagDescription": "string",
+      "flower": "string",
+      "bird": "string",
+      "colors": "string",
+      "largestCities": "string",
+      "medianIncome": {
+        "value": 0
+      },
+      "percCompRelatedJobs": 0
+    }'
+
+Even when I tested the Request URL (https://localhost:7112/api/State): It gave me error of States.MedianIncome, it could not be mapped beacuse it is of type 'SqlMoney', 
+                                                                       which is not a supported primitve type or a valid entity type.
+
+And this the Server response I recived.
+  Error: response status is 500
+
+Same errors to others to "Get", "Put", "Delete".
+
+From the Web-App end, I got an Authentication Exception: The remote certificate is invalid because of errors in the certificate chain: Untrusted.
